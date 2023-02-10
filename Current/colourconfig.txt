@@ -1,0 +1,9 @@
+~Treeview Colours
+~ Red , Green , Blue , White , Pink , Orange , also hex colours
+
+Treeview Colour = #ffab45
+
+~Font to be used
+~Roboto , Google Sans , Arial etc..
+
+Treeview Font = Roboto
